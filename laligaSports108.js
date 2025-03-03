@@ -1,5 +1,4 @@
-<script>
-	var i1 = document.querySelector('#t1'); 
+    var i1 = document.querySelector('#t1'); 
     var l1='https://streambtw.com/iframe/ch6.php';
     var l='https://www.warnoir.online/p/media-player.html?embed=https://v5.sportsonline.si/channels/hd/hd2.php';
     var l='https://me.webcric.com/frame5.htm';
@@ -12,4 +11,3 @@
   	var i3 = document.querySelector('#t3'); 
     var l3='https://la12hd.com/vivo/canal.php?stream=m_laligatv';
 	i3.setAttribute('src', l3); 
-</script>
